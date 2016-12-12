@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package>
+  <name>husky_maps</name>
+  <version>0.0.1</version>
+  <description>Maps for the Edinburgh Dual Arm Manipulation Husky</description>
+
+  <maintainer email="wolfgang.merkt@ed.ac.uk">Wolfgang Merkt</maintainer>
+
+  <!--   BSD, MIT, Boost Software License, GPLv2, GPLv3, LGPLv2.1, LGPLv3 -->
+  <license>TODO</license>
+
+  <url type="website">https://github.com/ipab-slmc/husky_maps</url>
+
+  <export>
+  </export>
+</package>
